@@ -1,0 +1,6 @@
+# ninja log v5
+1	422	6725150121604888	CMakeFiles/LinkedList.dir/main.cpp.obj	b6134cca95cdd100
+12	430	6725150121684689	CMakeFiles/LinkedList.dir/List.cpp.obj	fdf2280f0b5f8185
+430	593	6725150123280403	LinkedList.exe	6f2418e6d7f57c64
+3	372	6725150536124540	CMakeFiles/LinkedList.dir/main.cpp.obj	b6134cca95cdd100
+372	546	6725150537655826	LinkedList.exe	6f2418e6d7f57c64
