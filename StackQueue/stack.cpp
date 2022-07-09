@@ -77,11 +77,11 @@ void Stack::Show() const
     cout << endl;
 }
 
-// int main()
-// {
-//     Stack stack;
-//     for (int i = 0; i < 20; ++i)
-//         stack.Push(i * i + 1);
-//     stack.Show();
-//     return 0;
-// }
+int main()
+{
+    Stack stack;
+    for (int i = 0; i < 20; ++i)
+        stack.Push(i * i + 1);
+    stack.Show();
+    return 0;
+}
